@@ -1,0 +1,33 @@
+body{
+    font-family: 'Supermercado One', cursive;
+    background-color: rgb(194, 75, 178); 
+}
+.header_div{
+    background-color: rgb(64, 30, 218);
+    color: rgb(196, 84, 171);
+}
+.header_div p{
+    font-family: 'Supermercado One', cursive;
+    color: rgb(206, 144, 144);
+    letter-spacing: 2px;
+    font-size: 12px;
+    font-weight: bold;
+}
+.main_div button{
+    font-family: 'Dancing Script', cursive;
+    margin-top: 30px;
+    width: 130px;
+    font-weight: bolder;
+    letter-spacing: 3px;
+}
+.copy_right_footer{
+    position: fixed;
+    color: #14ffd8b4;
+    bottom: 0;
+    font-size: 18px;
+    width: 100%;
+    background-color: rgb(26, 85, 112);
+    line-height: 3;
+    text-align: center;
+    text-shadow: 5px 5px 5px rgb(255, 0, 255);
+}
